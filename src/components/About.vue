@@ -1,5 +1,5 @@
 <template>
-    <h1>Home screen</h1>
+    <div>Home screen</div>
 </template>
 <style scoped>
 div{
